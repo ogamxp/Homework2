@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container1 {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+}
+
+.image img {
+  opacity: 0.75;
+  border-radius: 4px;
+  width: 501.987px;
+  height: 652.975px;
+}
+
+.container1 {
+  padding-top: 100px;
+}
+
+.text h1 {
+  text-align: center;
+  font-size: 36px;
+  letter-spacing: 5px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.paragrafs {
+  color: #757575;
+  font-size: 15px;
+  line-height: 1.5;
+  margin: 15px 0;
+}
+
+.headings {
+  margin: 10px 0;
+  font-weight: 400;
+  letter-spacing: 5px;
+  font-size: 20px;
+  line-height: 1.5;
+}
